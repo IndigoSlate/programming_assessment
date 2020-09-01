@@ -1,5 +1,7 @@
 # Indigo Slate Programming Puzzle!
 
+Exported to Devops on 09/01/2020
+
 Thank you for your interest in working with us at Indigo Slate!  As part of the interview process, we'd like you to to tackle this problem for us.  There are two parts to the problem, please answer at least the first.
 
 
